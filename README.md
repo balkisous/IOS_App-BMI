@@ -6,11 +6,11 @@
 
 The goal of this project is to learn more about Optionals, solidify my understanding of the MVC design pattern and to introduce the concept of Classes. I’ll learn about objects created from classes with instances of Structs. 
 
-## What I create 🧱
+## What I created 🧱
 
 In this module, I have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice. 
 
-## What I learn 📖
+## What I learned 📖
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
