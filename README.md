@@ -20,7 +20,9 @@ In this module, I have made a Body Mass Index calculator. Based on the user’s 
 * Color literals.
 
 ## Excepted View 👀
-https://github.com/balkisous/IOS_App-BMI/assets/76943138/3b903ae4-f755-4487-a40d-728ecf82cadb
+https://github.com/balkisous/IOS_App-BMI/assets/76943138/fce4cee2-638f-440a-aa63-63d0f14e1877
+
+
 
 
 
