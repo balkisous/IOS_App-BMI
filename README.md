@@ -19,6 +19,10 @@ In this module, I have made a Body Mass Index calculator. Based on the user’s 
 * Formatting Strings. 
 * Color literals.
 
+## Excepted View 👀
+https://github.com/balkisous/IOS_App-BMI/assets/76943138/3b903ae4-f755-4487-a40d-728ecf82cadb
+
+
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
